@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to farefirst from sk"
+title:  "Welcome to Blog"
 date:   2024-01-28 22:49:28 +0530
 categories: jekyll update
 ---
